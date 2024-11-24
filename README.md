@@ -40,12 +40,12 @@ add_project(CONTEMPLATOR                           #  <---- Target name
 ```
 
 # Library types
-STATIC_LIB -> Static library
-SHARED_LIB -> Creates a DLL
-EXE        -> Creates an executable
-EXAMPLE    -> Same as EXE
-SHADERS    -> (Ignore this for now)
-COMMAND    -> Creates an executable and copies the executable to the src folder.
+* STATIC_LIB -> Static library
+* SHARED_LIB -> Creates a DLL
+* EXE        -> Creates an executable
+* EXAMPLE    -> Same as EXE
+* SHADERS    -> (Ignore this for now)
+* COMMAND    -> Creates an executable and copies the executable to the src folder.
 
 
 
